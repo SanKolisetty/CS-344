@@ -117,7 +117,7 @@ void stop_daemon()
 
 int main(int argc, char *argv[])
 { 
-    // to run - gcc 210101093.c -0 run_daemon
+    // to run - gcc Assignment03.c -0 run_daemon
     // to start - ./run_daemon start
     // to stop - ./run_daemon stop
     // to check the proces - ps -efj
